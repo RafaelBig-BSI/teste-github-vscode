@@ -11,3 +11,5 @@
 	- Há a opção de informar um texto para o COMMIT e apenas de um commit depois de informar o texto.
 
 	- Depois, irá aparecer um botão de "Publish Branch" que indica qual branch estou trabalhando sendo possível visualizar no canto inferior esquerdo da tela do VSCode.
+
+	- Se não aparecer o botão "Sync Changes" vá nos tres pontinhos e selecione "Pull" pra trazer as novas atualizações para dentro do VSCode.
