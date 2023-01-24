@@ -15,3 +15,7 @@
 	- Se não aparecer o botão "Sync Changes" vá nos tres pontinhos e selecione "Pull" pra trazer as novas atualizações para dentro do VSCode.
 
 	- Para que as alterações possam ser vistas no repositorio no GitHub é preciso fazer um "Commit & Push" no VSCode.
+
+3) Criar uma branch nova
+	- clicar no ícone branch no canto inferior esquerdo da tela
+	- fornecer um nome pra branch
