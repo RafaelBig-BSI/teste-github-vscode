@@ -4,6 +4,10 @@
 	- Ir no menu lateral esquerdo, encontrar o ícone de usuário.
 	- Selecionar "Turn on Sign In" (acho que é isso, é o primeiro) e escolher a opção de logar com o GitHub
 
+
 2) Source Control (menu lateral esquerdo - ramificação)
 	- Clicar no botão "Initialize Repository" (irá iniciar um repositorio local, ou seja, na máquina.
-	- Há a opção de informar um texto para o COMMIT.
+
+	- Há a opção de informar um texto para o COMMIT e apenas de um commit depois de informar o texto.
+
+	- Depois, irá aparecer um botão de "Publish Branch" que indica qual branch estou trabalhando sendo possível visualizar no canto inferior esquerdo da tela do VSCode.
