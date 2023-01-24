@@ -1,0 +1,9 @@
+				*** Trabalhando com Git e GitHub no VSCode ***
+
+1) Logar sua conta do GitHub no VSCode:
+	- Ir no menu lateral esquerdo, encontrar o ícone de usuário.
+	- Selecionar "Turn on Sign In" (acho que é isso, é o primeiro) e escolher a opção de logar com o GitHub
+
+2) Source Control (menu lateral esquerdo - ramificação)
+	- Clicar no botão "Initialize Repository" (irá iniciar um repositorio local, ou seja, na máquina.
+	- Há a opção de informar um texto para o COMMIT.
